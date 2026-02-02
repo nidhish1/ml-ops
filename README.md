@@ -1,3 +1,38 @@
+# **Course Timeline — Critical Dates**
+
+## **Weekly Lab Assignments (60% of grade)**
+- **Released**: Weekly schedule
+- **Due**: Every Monday at midnight
+- **Key reminder**: Start early! Don't wait until the day it's due because of limited compute resources
+
+## **Final Project Milestones (40% of grade)**
+
+| Milestone | Date | Points |
+|-----------|------|--------|
+| **Project Proposal** | March 2, 2026 | 5/40 |
+| **Initial Implementation** | April 6, 2026 | 10/40 |
+| **System Implementation** | April 20, 2026 | 15/40 |
+| **Ongoing Operation** | May 4, 2026 | 10/40 |
+
+- **Project Proposal** (March 2): Problem statement, data sources, modeling approach, business alignment
+- **Initial Implementation** (April 6): Individual components working (data, model training, serving, monitoring); overall pipeline with dummy steps (for 4-person groups)
+- **System Implementation** (April 20): Fully integrated end-to-end ML system; all safeguarding included
+- **Ongoing Operation** (May 4): Running with emulated "live" data; demonstrate operational stability over time
+
+## **Other Important Dates**
+- **February 17** (Tuesday) — Lecture 4 on "Large scale data systems" (Legislative Monday schedule)
+- **March 16** — No class (Spring break)
+- **May 4** — Final lecture and final project due
+
+## **Strategic Timeline Notes**
+1. **Form your project group ASAP** — Proposal due March 2 (less than a month away)
+2. **No late work accepted on project deliverables** — Zero flexibility (unlike labs)
+3. The project builds progressively — missing an early milestone hurts later ones
+
+**→ Mark these dates in your calendar now!**
+
+---
+
 # **Chameleon Cloud Setup Runbook**
 
 ## **Overview**
